@@ -1,0 +1,5 @@
+* Block all locked questions on LeetCode with uBlockOrigin:
+
+leetcode.com##tr:has(td:nth-of-type(3) div span span i.fa-lock)
+
+
